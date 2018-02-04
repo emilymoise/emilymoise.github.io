@@ -1,9 +1,16 @@
 
 
+
 body {
-	background-color: #1E90FF;
+	background-color: ##ABF7F5;
 	font-family: "Verdana";
-	font-size: 100px;
+	font-size: 18pt;
 	color: grey;
 	text-align: center;
+}
+
+h1 {
+	border: medium || double || grey;
+	font-weight: bold;
+	font size: 24pt;
 }
