@@ -3,7 +3,7 @@
 
 body {
 	background-color: #F3C7FA;
-	font-family: "Comic Sans";
+	font-family: "Verdana";
 	font-size: 20pt;
 	color: grey;
 	text-align: center;
@@ -13,6 +13,7 @@ h1 {
 	border-style: double;
 	border-color: grey;
 	border-width: medium;
+	margin: 70px;
 	font-weight: bold;
-	font-size: 24pt;
+	font-size: 30pt;
 }
