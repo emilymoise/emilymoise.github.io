@@ -9,11 +9,13 @@ h1 {
 
 	font-weight: bolder;
 	text-align: center;
-	font-size: 20pt;
+	font-size: 16pt;
+	text-decoration-style: wavy;
 }
 
 h2 {
-	text-indent: 4em;
+	text-indent: 3em;
+	font-size: 12 pt;
 }
 
 h3 {
