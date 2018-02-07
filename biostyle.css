@@ -10,7 +10,7 @@ h1 {
 	font-weight: bolder;
 	text-align: center;
 	font-size: 16pt;
-	text-decoration-style: wavy;
+	text-decoration: underline;
 }
 
 h2 {
