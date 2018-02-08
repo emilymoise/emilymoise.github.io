@@ -13,15 +13,22 @@ h1 {
 	font-size: 22pt;
 }
 
+h2 {
 
-h2, h3, h4, h5 {
+	font-weight: bolder;
+	text-align: center;
+	font-size: 16pt;
+}
+
+
+h3, h4, h5, h6 {
 
 	font-weight: bold;
 	text-decoration: underline;
 	font-size: 14pt;
 }
 
-h6 {
+h7 {
 	text-align: center;
 	font-size: 14pt;
 }
