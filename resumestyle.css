@@ -1,6 +1,6 @@
 
 body {
-	background-color: #F0FFFF;
+	background-color: white;
 	font-family: "Times New Roman";
 	font-size: 100px;
 	color: black;
@@ -13,11 +13,6 @@ h1 {
 	font-size: 22pt;
 }
 
-.list {
-
-	list-style-type: circle;
-	margin-left: 20%;
-}
 
 h2, h3, h4, h5 {
 
