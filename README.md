@@ -1,3 +1,3 @@
 
-All files have been validated by their respective validator and work as expected. I collaborated on this assignment with Laurel Haeger and Sabrina Miller. I have spent a little over four hours on this assignment.
+Source code for my personal website. Simple code to meet project requirements for a Web Programming class; working to update code to enhance the website.
 
